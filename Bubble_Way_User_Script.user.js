@@ -6,6 +6,9 @@
 // @author       Bubble Way Team
 // @include      https://www.puziri.net/*
 // @include      https://www.bubble-way.com/game
+// @homepageURL  https://www.bubble-way.com
+// @updateURL    https://raw.githubusercontent.com/asrdri/yt-metabot-user-js/master/yt-metabot.meta.js
+// @downloadURL  https://raw.githubusercontent.com/asrdri/yt-metabot-user-js/master/yt-metabot.user.js
 // ==/UserScript==
 
 var _0x36f3 = [
