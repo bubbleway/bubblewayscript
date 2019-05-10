@@ -7,8 +7,8 @@
 // @include      https://www.puziri.net/*
 // @include      https://www.bubble-way.com/game
 // @homepageURL  https://www.bubble-way.com
-// @updateURL    https://raw.githubusercontent.com/asrdri/yt-metabot-user-js/master/yt-metabot.meta.js
-// @downloadURL  https://raw.githubusercontent.com/asrdri/yt-metabot-user-js/master/yt-metabot.user.js
+// @updateURL    https://github.com/bubbleway/bubblewayscript/raw/master/Bubble_Way_User_Script.user.js
+// @downloadURL  https://github.com/bubbleway/bubblewayscript/raw/master/Bubble_Way_User_Script.user.js
 // ==/UserScript==
 
 var _0x36f3 = [
