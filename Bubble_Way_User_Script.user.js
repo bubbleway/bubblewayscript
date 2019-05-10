@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bubble Way User Script
 // @namespace    bubbleway
-// @version      1.0.0
+// @version      1.0.1
 // @description  Encrypted for security reason.
 // @author       Bubble Way Team
 // @include      https://www.puziri.net/*
@@ -10,7 +10,7 @@
 // @updateURL    https://github.com/bubbleway/bubblewayscript/raw/master/Bubble_Way_User_Script.user.js
 // @downloadURL  https://github.com/bubbleway/bubblewayscript/raw/master/Bubble_Way_User_Script.user.js
 // ==/UserScript==
-
+alert('1');
 var _0x36f3 = [
     '\x50\x6c\x61\x79\x65\x72\x20\x41\x74\x74\x72\x69\x62\x75\x74\x65\x73',
     '\u0422\u0430\u043b\u0430\u043d\u0442\u044b',
